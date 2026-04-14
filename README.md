@@ -1,6 +1,6 @@
 ## Why So Crabby 
 
-Physiological stress response of shore crabs to changes in salinity and temperature within different habitat treatments (soft vs rocky bottoms).
+Physiological and behavioral stress response of shore crabs to changes in salinity and temperature as a proxy for growth and future population changes in response to climate change.
 
 (https://quarto.org/docs/manuscripts/authoring/rstudio.html)
 
